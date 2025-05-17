@@ -1,6 +1,6 @@
 import Default, { BalloonOptions } from './default';
 
-export default class metalloon extends Default {
+export default class metal extends Default {
   public static readonly spawn_chance: number = 0.1;
   // @ts-ignore
   public get name(): 'metal' {
@@ -12,7 +12,7 @@ export default class metalloon extends Default {
       ...super.options,
       // Override options here
       // e.g. the image url
-      imageUrl: 'example.svg',
+      imageUrl: '/balloons/metal-v1.svg',
     };
   }
 }

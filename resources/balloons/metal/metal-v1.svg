@@ -6,12 +6,12 @@
   <!-- Metallic Gradient -->
   <!-- Highlight for shine -->
   <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="balloonGradient">
-   <stop stop-color="#eee" offset="0%"/>
-   <stop stop-color="#999" offset="20%"/>
-   <stop stop-color="#ccc" offset="40%"/>
-   <stop stop-color="#999" offset="60%"/>
-   <stop stop-color="#eee" offset="80%"/>
-   <stop stop-color="#aaa" offset="100%"/>
+<stop stop-color="#999" offset="0%"/>
+<stop stop-color="#8c8c8c" offset="10%"/>
+<stop stop-color="#a3a3a3" offset="30%"/>
+<stop stop-color="#c4c4c4" offset="70%"/>
+<stop stop-color="#e0e0e0" offset="90%"/>
+<stop stop-color="#fff" offset="100%"/>
   </linearGradient>
  </defs>
  <g>
